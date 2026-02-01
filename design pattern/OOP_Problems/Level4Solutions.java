@@ -92,7 +92,6 @@ class ExceptionDemo {
 
     void handleNumberFormat(String s) {
         try {
-            int val = Integer.parseInt(s);
         } catch (NumberFormatException e) {
             System.out.println("Caught NumberFormatException: " + e.getMessage());
         }
