@@ -76,7 +76,6 @@ class StudentLevel4 {
 class ExceptionDemo {
     void handleArithmetic() {
         try {
-            int result = 10 / 0;
         } catch (ArithmeticException e) {
             System.out.println("Caught ArithmeticException: " + e.getMessage());
         }
