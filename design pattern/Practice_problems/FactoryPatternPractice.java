@@ -1,4 +1,3 @@
-
 /**
  * DESIGN PATTERN: FACTORY METHOD
  * 
