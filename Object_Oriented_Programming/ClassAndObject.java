@@ -1,5 +1,3 @@
-
-
 /**
  * BASICS: Classes and Objects
  * A class is a blueprint, and an object is an instance of that blueprint.
