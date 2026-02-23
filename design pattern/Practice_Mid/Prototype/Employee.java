@@ -17,8 +17,19 @@ class Developer implements Employee {
         return new Developer(name, role, code);
     }
 
-    public String toString() {
-        return "Developer [name=" + name + ", role=" + role + ", code=" + code + "]";
+    public void setname(String name) {
+        this.name = name;
+    }
+    public void setrole(String role) {
+        this.role = role;
+    }
+    public void setcode(String code) {
+        this.code = code;
+    }
+    public void display() {
+        System.out.println("Name: " + name);
+        System.out.println("Role: " + role);
+        System.out.println("Code: " + code);
     }
 }
 
@@ -33,26 +44,38 @@ class Manager implements Employee {
         this.project = project;
     }
 
-    public Employee clone() {
+    public Manager clone() {
         return new Manager(name, role, project);
     }
 
-    public String toString() {
-        return "Manager [name=" + name + ", role=" + role + ", project=" + project + "]";
+    public void setname(String name) {
+        this.name = name;
     }
-}
+    public void setrole(String role) {
+        this.role = role;
+    }
+    public void setproject(String project) {
+        this.project = project;
+    }
 
-public class Employee {
+    public void display() {
+        System.out.println("Name: " + name);
+        System.out.println("Role: " + role);
+        System.out.println("Project: " + project);
+    }
+public class Main {
     public static void main(String[] args) {
-        Employee developer = new Developer("John", "Developer", "Java");
-        Employee manager = new Manager("Jane", "Manager", "Project A");
+        Developer developer = new Developer("John", "Developer", "Java");
+        Manager manager = new Manager("Jane", "Manager", "Project A");
 
-        Employee developer2 = developer.clone();
-        Employee manager2 = manager.clone();
+        Employee developer2 = (Employee) developer.clone();
+        Manager manager2 = (Manager) manager.clone();
 
         System.out.println(developer);
         System.out.println(manager);
         System.out.println(developer2);
         System.out.println(manager2);
     }
+}
+
 }
