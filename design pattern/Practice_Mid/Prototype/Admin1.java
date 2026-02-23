@@ -29,7 +29,7 @@ class UserProfile implements Admin {
 }
 
 // Usage
-public class Admin {
+public class Admin1 {
     public static void main(String[] args) {
         UserProfile adminTemplate = new UserProfile("Template", "ADMIN",
             java.util.List.of("READ", "WRITE", "DELETE"));

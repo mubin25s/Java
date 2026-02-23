@@ -42,7 +42,7 @@ class Manager implements Employee {
     }
 }
 
-public class Prototype {
+public class Employee {
     public static void main(String[] args) {
         Employee developer = new Developer("John", "Developer", "Java");
         Employee manager = new Manager("Jane", "Manager", "Project A");
