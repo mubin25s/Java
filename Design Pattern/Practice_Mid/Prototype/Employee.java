@@ -32,7 +32,6 @@ class Developer implements Employee {
         System.out.println("Code: " + code);
     }
 }
-
 class Manager implements Employee {
     private String name;
     private String role;
