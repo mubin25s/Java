@@ -42,7 +42,6 @@ class Manager implements Employee {
         this.role = role;
         this.project = project;
     }
-
     public Manager clone() {
         return new Manager(name, role, project);
     }
