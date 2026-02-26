@@ -45,7 +45,6 @@ class Manager implements Employee {
     public Manager clone() {
         return new Manager(name, role, project);
     }
-
     public void setname(String name) {
         this.name = name;
     }
