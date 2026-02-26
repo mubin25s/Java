@@ -1,39 +1,39 @@
-public interface animal{
+public interface Animal{
     void sound();
 }
 
-class Dog implements animal{
+class Dog implements Animal{
     public void sound(){
         System.out.println("Woof");
     }
 }
 
-class Cat implements animal{
+class Cat implements Animal{
     public void sound(){
         System.out.println("Meow");
     }
 }
 
-class Cow implements animal{
+class Cow implements Animal{
     public void sound(){
         System.out.println("Moo");
     }
 }
 
-class Lion implements animal{
+class Lion implements Animal{
     public void sound(){
         System.out.println("Roar");
     }
 }
 
-class Tiger implements animal{
+class Tiger implements Animal{
     public void sound(){
         System.out.println("Roar");
     }
 }
 
 class AnimalFactory{
-    public static animal getAnimal(String type){
+    public static Animal getAnimal(String type){
         if(type.equals("Dog")){
             return new Dog();
         }else if(type.equals("Cat")){
@@ -50,9 +50,9 @@ class AnimalFactory{
     }
 }
 
-public class Animal {
+public class Main{ 
     public static void main(String[] args) {
-        animal a = AnimalFactory.getAnimal("Tiger");
+        Animal a = AnimalFactory.getAnimal("Tiger");
         a.sound();
     }
 }
