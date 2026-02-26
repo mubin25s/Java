@@ -28,7 +28,6 @@ class CourseManagementModule {
         logger.log("Course management successful");
     }
 }
-
 class OnlineExamModule {
     public void exam() {
         // Access (object) same SystemLogger instance
@@ -51,6 +50,4 @@ class Main{
 
         System.out.println(logger1==logger2);
     }
-} {
-    
 }
