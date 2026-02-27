@@ -49,7 +49,6 @@ class AnimalFactory{
         }
     }
 }
-
 public class Main{ 
     public static void main(String[] args) {
         Animal a = AnimalFactory.getAnimal("Tiger");
