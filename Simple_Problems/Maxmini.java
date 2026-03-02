@@ -12,3 +12,4 @@ public class Maxmini {
         max(num1, num2);
     }
 }
+ 
