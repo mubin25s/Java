@@ -1,5 +1,5 @@
 // SMELLS: long method, magic numbers, poor naming, does too many things
-public class O {
+public class Area {
     public void p(int x, int y, int t) {
         if (t == 1) {
             double r = x * 3.14159 * 3.14159;
