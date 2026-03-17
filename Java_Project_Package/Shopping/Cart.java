@@ -1,4 +1,4 @@
-package Shopping;
+package Java_Project_Package.Shopping;
 
 import java.util.ArrayList;
 import java.util.List;

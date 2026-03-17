@@ -1,4 +1,6 @@
-class Demo {
+package Simple_Problems;
+
+public class Demo {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }

@@ -1,4 +1,4 @@
-package Quiz;
+package Java_Project_Package.Quiz;
 
 public class Main {
     public static void main(String[] args) {

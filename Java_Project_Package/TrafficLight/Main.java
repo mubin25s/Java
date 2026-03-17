@@ -1,4 +1,4 @@
-package TrafficLight;
+package Java_Project_Package.TrafficLight;
 
 public class Main {
     public static void main(String[] args) {

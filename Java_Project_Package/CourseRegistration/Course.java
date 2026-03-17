@@ -1,4 +1,4 @@
-package CourseRegistration;
+package Java_Project_Package.CourseRegistration;
 
 public class Course {
     private String code;

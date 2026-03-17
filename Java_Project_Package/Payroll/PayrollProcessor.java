@@ -1,4 +1,4 @@
-package Payroll;
+package Java_Project_Package.Payroll;
 
 public class PayrollProcessor {
     public void printPaySlip(Employee emp, double hours) {

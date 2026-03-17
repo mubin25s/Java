@@ -1,9 +1,9 @@
-package operations;
+package Object_Oriented_Programming.Package_Projects_OOP.Weather.operations;
 
-import models.WeatherRecord;
-import sensors.Sensor;
-import sensors.TemperatureSensor;
-import sensors.HumiditySensor;
+import Object_Oriented_Programming.Package_Projects_OOP.Weather.models.WeatherRecord;
+import Object_Oriented_Programming.Package_Projects_OOP.Weather.sensors.Sensor;
+import Object_Oriented_Programming.Package_Projects_OOP.Weather.sensors.TemperatureSensor;
+import Object_Oriented_Programming.Package_Projects_OOP.Weather.sensors.HumiditySensor;
 import java.util.ArrayList;
 import java.util.List;
 

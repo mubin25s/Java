@@ -1,4 +1,4 @@
-package Payroll;
+package Java_Project_Package.Payroll;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,5 +1,7 @@
-import operations.WeatherStation;
-import models.WeatherRecord;
+package Object_Oriented_Programming.Package_Projects_OOP.Weather;
+
+import Object_Oriented_Programming.Package_Projects_OOP.Weather.operations.WeatherStation;
+import Object_Oriented_Programming.Package_Projects_OOP.Weather.models.WeatherRecord;
 
 public class WeatherApp {
     public static void main(String[] args) {

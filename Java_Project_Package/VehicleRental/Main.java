@@ -1,4 +1,4 @@
-package VehicleRental;
+package Java_Project_Package.VehicleRental;
 
 public class Main {
     public static void main(String[] args) {

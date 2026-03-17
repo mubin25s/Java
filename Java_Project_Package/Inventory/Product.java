@@ -1,4 +1,4 @@
-package Inventory;
+package Java_Project_Package.Inventory;
 
 public class Product {
     private String id;

@@ -1,3 +1,5 @@
+package Simple_Problems;
+
 public class FindMax {
     public static void main(String[] args) {
         int num1 = 15;

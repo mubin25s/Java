@@ -1,3 +1,5 @@
+package Simple_Problems;
+
 public class Maxmini {
     public static void max(int num1, int num2) {
         if (num1 > num2) {

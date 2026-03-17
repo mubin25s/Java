@@ -1,3 +1,5 @@
+package Simple_Problems;
+
 public class CalculateAverage {
     public static void main(String[] args) {
         double num1 = 10.5;

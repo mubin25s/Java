@@ -1,3 +1,5 @@
+package Simple_Problems;
+
 public class SimpleInterest {
     public static void main(String[] args) {
         double principal = 1000;

@@ -1,4 +1,4 @@
-package Weather;
+package Java_Project_Package.Weather;
 
 public class WeatherData {
     private double temperature;

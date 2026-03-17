@@ -1,4 +1,7 @@
-package StudentGrading;
+package Java_Project_Package.StudentGrading;
+
+import Design_Pattern.Practice_problems.OOP_Problems.Level2Solutions.Level2Solutions;
+import Design_Pattern.Practice_problems.OOP_Problems.Level2Solutions.Grade;
 
 public class Main {
     public static void main(String[] args) {

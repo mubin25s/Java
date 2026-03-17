@@ -1,4 +1,4 @@
-package Chat;
+package Java_Project_Package.Chat;
 
 public class Main {
     public static void main(String[] args) {

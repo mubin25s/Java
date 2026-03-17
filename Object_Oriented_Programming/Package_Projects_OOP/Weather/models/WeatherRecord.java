@@ -1,4 +1,4 @@
-package models;
+package Object_Oriented_Programming.Package_Projects_OOP.Weather.models;
 
 public class WeatherRecord {
     private double temperature;

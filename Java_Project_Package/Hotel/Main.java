@@ -1,4 +1,4 @@
-package Hotel;
+package Java_Project_Package.Hotel;
 
 public class Main {
     public static void main(String[] args) {

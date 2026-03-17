@@ -1,4 +1,4 @@
-package ATM;
+package Java_Project_Package.ATM;
 
 public class ATM {
     private double balance;

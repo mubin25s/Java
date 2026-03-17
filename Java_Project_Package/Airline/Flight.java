@@ -1,4 +1,4 @@
-package Airline;
+package Java_Project_Package.Airline;
 
 public class Flight {
     private String flightNumber;

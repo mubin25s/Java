@@ -1,4 +1,4 @@
-package VehicleRental;
+package Java_Project_Package.VehicleRental;
 
 public class Car extends Vehicle {
     private int doors;

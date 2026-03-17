@@ -1,4 +1,4 @@
-package Bank;
+package Java_Project_Package.Bank;
 
 public abstract class Account {
     protected double balance;

@@ -1,4 +1,4 @@
-package CourseRegistration;
+package Java_Project_Package.CourseRegistration;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package sensors;
+package Object_Oriented_Programming.Package_Projects_OOP.Weather.sensors;
 import java.util.Random;
 
 public class TemperatureSensor implements Sensor {

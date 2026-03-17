@@ -1,4 +1,4 @@
-package Hospital;
+package Java_Project_Package.Hospital;
 
 public class Doctor {
     private String name;

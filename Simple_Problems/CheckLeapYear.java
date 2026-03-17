@@ -1,3 +1,5 @@
+package Simple_Problems;
+
 import java.util.Scanner;
 
 public class CheckLeapYear {

@@ -1,4 +1,4 @@
-package VehicleRental;
+package Java_Project_Package.VehicleRental;
 
 public class Vehicle {
     private String licensePlate;

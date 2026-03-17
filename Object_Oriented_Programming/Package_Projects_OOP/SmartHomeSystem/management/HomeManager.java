@@ -1,6 +1,6 @@
-package management;
+package Object_Oriented_Programming.Package_Projects_OOP.SmartHomeSystem.management;
 
-import devices.Device;
+import Object_Oriented_Programming.Package_Projects_OOP.SmartHomeSystem.devices.Device;
 import java.util.ArrayList;
 import java.util.List;
 

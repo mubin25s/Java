@@ -1,4 +1,4 @@
-package Timer;
+package Java_Project_Package.Timer;
 
 public class Main {
     public static void main(String[] args) {

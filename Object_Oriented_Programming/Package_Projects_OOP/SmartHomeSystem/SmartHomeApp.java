@@ -1,6 +1,11 @@
-import devices.Light;
-import devices.Thermostat;
-import management.HomeManager;
+package Object_Oriented_Programming.Package_Projects_OOP.SmartHomeSystem;
+
+import Java_Project_Package.Hotel.Hotel;
+import Java_Project_Package.Hotel.Main;
+import Java_Project_Package.Hotel.Room;
+import Object_Oriented_Programming.Package_Projects_OOP.SmartHomeSystem.devices.Light;
+import Object_Oriented_Programming.Package_Projects_OOP.SmartHomeSystem.devices.Thermostat;
+import Object_Oriented_Programming.Package_Projects_OOP.SmartHomeSystem.management.HomeManager;
 
 public class SmartHomeApp {
     public static void main(String[] args) {

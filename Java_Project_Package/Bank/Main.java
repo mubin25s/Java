@@ -1,4 +1,4 @@
-package Bank;
+package Java_Project_Package.Bank;
 
 public class Main {
     public static void main(String[] args) {

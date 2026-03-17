@@ -1,4 +1,7 @@
-package Shopping;
+package Java_Project_Package.Shopping;
+
+import Object_Oriented_Programming.four_pillars.Abstraction.Abstraction;
+import Object_Oriented_Programming.four_pillars.Abstraction.Laptop;
 
 public class Main {
     public static void main(String[] args) {

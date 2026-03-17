@@ -1,3 +1,5 @@
+package Simple_Problems;
+
 public class PerimeterRectangle {
     public static void main(String[] args) {
         double length = 5.0;

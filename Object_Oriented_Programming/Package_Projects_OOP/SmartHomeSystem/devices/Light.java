@@ -1,4 +1,4 @@
-package devices;
+package Object_Oriented_Programming.Package_Projects_OOP.SmartHomeSystem.devices;
 
 public class Light extends Device {
     private int brightness;

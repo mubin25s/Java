@@ -1,4 +1,5 @@
-package TrafficLight;
+package Java_Project_Package.TrafficLight;
+import Object_Oriented_Programming.Package_Projects_OOP.SmartHomeSystem.devices.Light;
 
 public class TrafficLight {
     private String color;

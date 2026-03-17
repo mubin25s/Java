@@ -1,4 +1,4 @@
-package StudentGrading;
+package Java_Project_Package.StudentGrading;
 
 public class GradeCalculator {
     public char calculateLetter(double average) {

@@ -1,4 +1,4 @@
-package StudentGrading;
+package Java_Project_Package.StudentGrading;
 
 public class Student {
     private String name;

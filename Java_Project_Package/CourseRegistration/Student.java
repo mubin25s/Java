@@ -1,4 +1,4 @@
-package CourseRegistration;
+package Java_Project_Package.CourseRegistration;
 
 import java.util.ArrayList;
 import java.util.List;

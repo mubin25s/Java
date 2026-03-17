@@ -1,4 +1,7 @@
-package MusicPlayer;
+package Java_Project_Package.MusicPlayer;
+
+import Object_Oriented_Programming.InterfaceBasics.InterfaceBasics;
+import Object_Oriented_Programming.InterfaceBasics.MusicPlayer;
 
 public class Main {
     public static void main(String[] args) {

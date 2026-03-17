@@ -1,3 +1,6 @@
+package Object_Oriented_Programming.Practice;
+import Simple_Problems.Name;
+
 public class Student {
     String name;
     String department;

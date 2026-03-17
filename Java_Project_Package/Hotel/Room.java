@@ -1,4 +1,4 @@
-package Hotel;
+package Java_Project_Package.Hotel;
 
 public class Room {
     private int roomNumber;

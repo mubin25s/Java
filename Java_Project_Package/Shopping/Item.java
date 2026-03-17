@@ -1,4 +1,4 @@
-package Shopping;
+package Java_Project_Package.Shopping;
 
 public class Item {
     private String name;

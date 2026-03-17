@@ -1,4 +1,4 @@
-package Coffee;
+package Java_Project_Package.Coffee;
 
 public class CoffeeMachine {
     private int waterLevel;

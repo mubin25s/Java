@@ -1,4 +1,4 @@
-package Pizza;
+package Java_Project_Package.Pizza;
 
 import java.util.ArrayList;
 import java.util.List;
