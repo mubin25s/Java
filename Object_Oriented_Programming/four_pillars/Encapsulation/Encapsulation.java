@@ -1,5 +1,4 @@
 package Object_Oriented_Programming.four_pillars.Encapsulation;
-import Simple_Problems.Name;
 
 public class Encapsulation {
     public static void main(String[] args) {
