@@ -1,4 +1,4 @@
-package Code_Signal_Course_Java.Creational_Design_Patterns.FactoryMethod;
+package Code_Signal_Course_Java.Creational_Design_Patterns.Factory.FactoryMethod;
 
 public class WordDocumentFactory implements DocumentAbstractFactory {
     @Override
