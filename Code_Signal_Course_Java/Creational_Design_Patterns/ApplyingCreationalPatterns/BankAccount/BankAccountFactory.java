@@ -1,4 +1,4 @@
-package Code_Signal_Course_Java.Creational_Design_Patterns.Applying Creational Patterns.BankAccount;
+package Code_Signal_Course_Java.Creational_Design_Patterns.ApplyingCreationalPatterns.BankAccount;
 
 public class BankAccountFactory {
 
@@ -12,4 +12,4 @@ public class BankAccountFactory {
                 throw new IllegalArgumentException("Unknown account type: " + type);
         }
     }
-}
+}               
