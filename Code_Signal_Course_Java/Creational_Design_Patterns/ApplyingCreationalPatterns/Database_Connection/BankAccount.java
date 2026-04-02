@@ -1,4 +1,4 @@
-package Code_Signal_Course_Java.Creational_Design_Patterns.Applying Creational Patterns.Database_Connection;
+package Code_Signal_Course_Java.Creational_Design_Patterns.ApplyingCreationalPatterns.Database_Connection;
 
 public abstract class BankAccount {
     protected String accountNumber;
